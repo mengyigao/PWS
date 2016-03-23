@@ -9,3 +9,9 @@ Users can get the current development version from github:
 
 `# install.packages("devtools")`  
 `devtools::install_github("mengyigao/PWS")`
+
+## Shiny Interface
+
+Shiny graphical interface can be called by:
+
+`PWS::testApp()`
