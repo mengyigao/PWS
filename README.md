@@ -1,6 +1,6 @@
 # PWS: Personal Weather Station
 
-This R package extracts, organizes, visualizes and predicts local weather data.
+This R package extracts, organizes, and visualizes local weather data.
 User can use this package to compare data at nearby stations to show microclimate patterns.
 
 ## Installation
