@@ -12,6 +12,6 @@ Users can get the current development version from github:
 
 ## Shiny Interface
 
-Shiny graphical interface can be called by:
+Shiny graphical interface can be launched by:
 
 `PWS::testApp()`
